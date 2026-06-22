@@ -9,7 +9,7 @@ real data update, not a placeholder.
 
 
 <!--RATES_START-->
-**ECB reference date:** 2026-06-19  ·  **Last refreshed:** 2026-06-22 13:01 UTC  ·  **Observations tracked:** 1
+**ECB reference date:** 2026-06-19  ·  **Last refreshed:** 2026-06-22 13:07 UTC  ·  **Observations tracked:** 1
 
 | Pair | Rate |
 |------|------|
