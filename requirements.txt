@@ -1,0 +1,3 @@
+pandas>=2.0
+matplotlib>=3.7
+# (data fetch uses urllib from the standard library — no extra HTTP dependency)
