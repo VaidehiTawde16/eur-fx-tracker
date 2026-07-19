@@ -9,15 +9,15 @@ real data update, not a placeholder.
 
 
 <!--RATES_START-->
-**ECB reference date:** 2026-07-10  ·  **Last refreshed:** 2026-07-13 09:12 UTC  ·  **Observations tracked:** 5
+**ECB reference date:** 2026-07-17  ·  **Last refreshed:** 2026-07-19 06:34 UTC  ·  **Observations tracked:** 6
 
 | Pair | Rate |
 |------|------|
-| EUR/USD | 1.1430 |
-| EUR/GBP | 0.8516 |
-| EUR/JPY | 185.0200 |
-| EUR/CHF | 0.9223 |
-| EUR/INR | 108.9665 |
+| EUR/USD | 1.1435 |
+| EUR/GBP | 0.8510 |
+| EUR/JPY | 185.6500 |
+| EUR/CHF | 0.9228 |
+| EUR/INR | 110.1020 |
 
 ![EUR rates](docs/eur_rates.png)
 <!--RATES_END-->
